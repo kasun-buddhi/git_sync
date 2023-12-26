@@ -36,5 +36,5 @@ minute hour day month day_of_week <absolute_path/sync.sh>
 ```
 example:
 ```bash
-24 10 * * * /your_path/sync.sh #(this will do everyday 10.24 am [* start means any])
+24 10 * * * /your_path/sync.sh #(this will do everyday 10.24 am ["*" means any])
 ```
